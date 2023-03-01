@@ -22,7 +22,4 @@ with open('UserAd.csv', 'r') as obj:
 
       #print(comando)
       os.system(comando)
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
+
